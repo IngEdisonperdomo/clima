@@ -1,7 +1,7 @@
 # París
 Es un proyecto hecho en React Native para ver clima eligiendo el país y la ciudad
 
-![test2](https://repository-images.githubusercontent.com/371205301/303a4980-be66-11eb-9d7c-50a33b63b90f)
+![test2](https://repository-images.githubusercontent.com/385405736/0bc9fc00-e344-11eb-9464-a0b1a9ab337f)
 
 
 # Project
